@@ -7,3 +7,12 @@ Reflex-Based Action: Quick-tap mechanics that require precision and speed.
 Physics-Based Bouncing: Balls utilize Unity's 2D physics engine for realistic bounces off screen edges.
 
 Mobile Optimized: Lightweight 2D graphics and touch-responsive controls tailored for Android devices.
+
+# 🛠️ Technical Specifications
+Engine: Unity 2022.3.46f1 (LTS)
+
+Platform: Android
+
+Language: C#
+
+Physics: Rigidbody2D and CircleCollider2D for interaction.
