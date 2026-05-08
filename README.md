@@ -16,3 +16,13 @@ Platform: Android
 Language: C#
 
 Physics: Rigidbody2D and CircleCollider2D for interaction.
+
+# 📲 How to Install (Android)
+
+Download the Bouncy_Ball.apk file from the repository.
+
+Transfer the file to your Android device.
+
+Open the file to install (ensure "Install from Unknown Sources" is enabled in settings).
+
+Start tapping and enjoy!
